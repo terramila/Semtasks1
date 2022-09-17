@@ -1,0 +1,15 @@
+C:\Users\beshi\Desktop\examplesseminar\semtask2\bin\Debug\net6.0\semtask2.exe
+C:\Users\beshi\Desktop\examplesseminar\semtask2\bin\Debug\net6.0\semtask2.deps.json
+C:\Users\beshi\Desktop\examplesseminar\semtask2\bin\Debug\net6.0\semtask2.runtimeconfig.json
+C:\Users\beshi\Desktop\examplesseminar\semtask2\bin\Debug\net6.0\semtask2.dll
+C:\Users\beshi\Desktop\examplesseminar\semtask2\bin\Debug\net6.0\semtask2.pdb
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\semtask2.csproj.AssemblyReference.cache
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\semtask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\semtask2.AssemblyInfoInputs.cache
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\semtask2.AssemblyInfo.cs
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\semtask2.csproj.CoreCompileInputs.cache
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\semtask2.dll
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\refint\semtask2.dll
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\semtask2.pdb
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\semtask2.genruntimeconfig.cache
+C:\Users\beshi\Desktop\examplesseminar\semtask2\obj\Debug\net6.0\ref\semtask2.dll
