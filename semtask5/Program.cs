@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Введите число: ");
 int num = int.Parse(Console.ReadLine());
- if ((num < 1000) & ( num > 99))
+ if ((Math.Abs(num) < 1000) & (Math.Abs(num)> 99)) //Math.Abs.поключает отрицательные числа 
 {
     Console.WriteLine( num % 10);
 }
